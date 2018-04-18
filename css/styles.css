@@ -1,0 +1,21 @@
+h2{
+color: #4A235A ;
+}
+
+
+body{
+background-color: #EBEDEF ;
+margin:auto ;
+font-family: Ariel;
+
+}
+html head{
+  background-color: #1B2631  ;
+}
+img {
+border: 10px ;
+heigh: 100px ;
+width: 900px;
+object-fit: cover;
+padding: 30px ;
+}
