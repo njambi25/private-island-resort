@@ -63,4 +63,23 @@ ol {
   color: #5B2C6F;
 }
 
-/*css for contscts-information*
+/*css for contacts-information*/
+
+.image {
+  width: 60%;
+  margin: auto;
+}
+
+.image h3 {
+  font-size: 30px;
+  color: #5B2C6F;
+  text-align: center;
+}
+
+.image img {
+  border-radius: 30px;
+}
+
+.image p {
+  font-size: 20px;
+}
