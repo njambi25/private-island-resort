@@ -1,0 +1,29 @@
+h1{
+  color: #E8DAEF ;
+}
+
+h2{
+color: #F5EEF8 ;
+}
+
+
+body{
+background-color: #212F3D ;
+margin:auto ;
+font-family: Ariel;
+padding: 30px ;
+
+}
+html head{
+  background-color: ##2E4053  ;
+}
+img {
+border: 10px ;
+heigh: 100px ;
+width: 900px;
+object-fit: cover;
+padding: 20px ;
+}
+ol{
+  color: #F8C471 ;
+}

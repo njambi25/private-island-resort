@@ -1,22 +1,66 @@
-h2{
-color: #4A235A ;
+.container h1 {
+  color: #1B2631;
+  font-size: 50px;
 }
 
-
-body{
-background-color: #EBEDEF ;
-margin:auto ;
-font-family: Ariel;
-padding: 30px ;
-
+.container h2 {
+  color: #1C2833;
+  font-size: 30px;
 }
-html head{
-  background-color: #1B2631  ;
+
+.container a {
+  font-size: 20px;
+  text-decoration: none;
 }
+
+.container p {
+  font-size: 20px;
+}
+
+body {
+  font-family: Ariel;
+  background-color: #ECF0F1;
+}
+
+html head {
+  background-color: ##2E4053;
+}
+
 img {
-border: 10px ;
-heigh: 100px ;
-width: 900px;
-object-fit: cover;
-padding: 20px ;
+  width: 100%;
 }
+
+.container img {
+  border: 10px;
+  padding: 20px;
+}
+
+ol {
+  color: #F8C471;
+}
+
+.container {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+
+.container h1 {
+  color:
+}
+
+.text {
+  font-size: 20px;
+}
+
+/*css for accomodation*/
+
+.container img {
+  border-radius: 50px;
+}
+
+.container h2 {
+  color: #5B2C6F;
+}
+
+/*css for contscts-information*
