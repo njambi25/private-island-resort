@@ -83,3 +83,30 @@ ol {
 .image p {
   font-size: 20px;
 }
+
+/*css for gallery*/
+
+body {
+  background-color: #F5EEF8;
+}
+
+.image1 {
+  width: 70%;
+  margin: auto;
+}
+
+.image1 h1 {
+  text-align: center;
+  background-color: #EBDEF0;
+}
+
+/*css for travel-arrangements*/
+
+.header {
+  text-align: center;
+}
+
+.header p {
+  font-size: 20px;
+  text-align: center;
+}
