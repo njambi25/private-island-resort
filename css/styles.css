@@ -83,3 +83,29 @@ ol {
 .image p {
   font-size: 20px;
 }
+
+/*css for galler*/
+
+.gallery {
+  width: 70%;
+  margin: auto;
+}
+
+.name {
+  text-align: center;
+}
+
+/*css fpr travel-arrangements*/
+
+.links h3 {
+  text-align: center;
+}
+
+.links p {
+  text-align: center;
+  font-size: 25px;
+}
+
+.title {
+  text-align: center;
+}
