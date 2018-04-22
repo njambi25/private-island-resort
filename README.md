@@ -1,5 +1,5 @@
 # private-island-resort
-# Palena Islane Resort Website
+# Palena Island Resort Website
 #### This is a private island resort website, 
 #### By **Alice Njambi**
 ## Description
